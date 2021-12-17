@@ -7,8 +7,9 @@ Day1:
 
 Day2:
 1) stareted a2oj ladder
-2) did (q-1 to q-) of ladder
-3)
+2) did (q-1 to q-2) of ladder
+3) codeforces #757-B
+4) learned matlab coding for ota assignment
 
 Day3:
 1)
