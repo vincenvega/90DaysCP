@@ -1,13 +1,13 @@
 # 90DaysCP
 
 Day1:
-1)
-2)
+1) made schedule
+2) opened chrome tabs 
 3)
 
 Day2:
-1)
-2)
+1) stareted a2oj ladder
+2) did (q-1 to q-) of ladder
 3)
 
 Day3:
