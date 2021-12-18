@@ -1,6 +1,6 @@
 # 90DaysCP
 
-Day1:
+Day1: //16 Dec
 1) made schedule
 2) opened chrome tabs 
 3)
@@ -11,7 +11,7 @@ Day2:
 3) codeforces #757-B
 4) learned matlab coding for ota assignment
 
-Day3:
+Day3: // 18 Dec
 1)
 2)
 3)
