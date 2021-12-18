@@ -12,8 +12,8 @@ Day2:
 4) learned matlab coding for ota assignment
 
 Day3: // 18 Dec
-1)
-2)
+1) solved total 7 ques on cf (including today's contest)
+2) gave edu round #119 solved A and B
 3)
 
 Day4:
