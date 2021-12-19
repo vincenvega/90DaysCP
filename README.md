@@ -17,8 +17,8 @@ Day3: // 18 Dec
 3)
 
 Day4:
-1)
-2)
+1) practiced nov cookoff solved ? quesns
+2) gave dec cookoff
 3)
 
 Day5:
