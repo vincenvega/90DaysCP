@@ -21,18 +21,18 @@ Day4:
 2) gave dec cookoff solved 4 quesns
 3) made to do list of topics
 
-Day5:
-1)
-2)
+Day5: // 20 Dec
+1) gave cF round 762 , did only 1 ques , got frustrated
+2) watched lec-22 on strings (Babbar),got confused on passing string by ref, got frustrated
 3)
 
 Day6:
-1)
-2)
+1) gave CF contest hosted by college did 3 ques
+2) solved that string ques (lec-22 wala) feeling confident, learned to pass string by ref by building own code to test things.
 3)
 
-Day7:
-1)
+Day7: // 22 dec
+1) did 4 th ques of yesterdays colg wala contest
 2)
 3)
 
