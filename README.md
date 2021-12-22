@@ -32,8 +32,8 @@ Day6:
 3)
 
 Day7: // 22 dec
-1) did 4 th ques of yesterdays colg wala contest
-2)
+1) did (4 th) ques of yesterdays colg wala contest
+2) Read and made notes of OS and OOPs
 3)
 
 Day8:
