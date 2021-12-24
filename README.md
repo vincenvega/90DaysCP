@@ -34,17 +34,17 @@ Day6:
 Day7: // 22 dec
 1) did (4 th) ques of yesterdays colg wala contest
 2) Read and made notes of OS and OOPs
-3)
+3) codechef infinity contest dia 2 ques kre
 
 Day8:
-1)
-2)
+1) string and math for dsa -> babbar video
+2) above videos ke ques kre
 3)
 
 Day9:
-1)
-2)
-3)
+1) gave global round-119 cf contest did (1 ques)
+2) string and math for dsa -> babbar video
+3) 3 cf ques
 
 Day10:
 1)
