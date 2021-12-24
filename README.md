@@ -42,7 +42,7 @@ Day8:
 3)
 
 Day9:
-1) gave global round-119 cf contest did (1 ques)
+1) gave global round-118 cf contest did (1 ques)
 2) string and math for dsa -> babbar video
 3) 3 cf ques
 
