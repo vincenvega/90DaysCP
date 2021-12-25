@@ -46,9 +46,9 @@ Day9:
 2) string and math for dsa -> babbar video
 3) 3 cf ques
 
-Day10:
-1)
-2)
+Day10: // 25 dec
+1) gave at coder contest
+2) gave codechef contest
 3)
 
 Day11:
