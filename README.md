@@ -52,18 +52,18 @@ Day10: // 25 dec
 3)
 
 Day11:
-1)
+1) babbar pointers
 2)
 3)
 
 Day12:
 1) cF contest did 2 ques very excited
-2)
-3)
+2) babbar binary serach
+3) revised trees
 
 Day13:
 1) cF contest did 0 ques feeling very bad
-2)
+2) revised linked list , sliding window
 3)
 
 Day14:
