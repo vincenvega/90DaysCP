@@ -57,12 +57,12 @@ Day11:
 3)
 
 Day12:
-1)
+1) cF contest did 2 ques very excited
 2)
 3)
 
 Day13:
-1)
+1) cF contest did 0 ques feeling very bad
 2)
 3)
 
