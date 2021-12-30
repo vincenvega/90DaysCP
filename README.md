@@ -73,7 +73,7 @@ Day14: // 29 dec
 
 Day15:
 1) did one easy cc ques on cc practice
-2)
+2) Watched Babbar Pointer videos
 3)
 
 Day16:
