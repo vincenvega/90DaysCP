@@ -66,13 +66,13 @@ Day13:
 2) revised linked list , sliding window
 3)
 
-Day14:
-1)
-2)
+Day14: // 29 dec
+1) gave (goodbye 2021 contest) on cF did 2 ques
+2) revised binary tress , studied and coded levelOrder stuff.
 3)
 
 Day15:
-1)
+1) did one easy cc ques on cc practice
 2)
 3)
 
