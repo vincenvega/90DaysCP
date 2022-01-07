@@ -76,12 +76,12 @@ Day15:
 2) Watched Babbar Pointer videos
 3)
 
-Day16:
+Day16: // 31 dec
 1)
 2)
 3)
 
-Day17:
+Day17: // 1 Jan
 1)
 2)
 3)
@@ -91,53 +91,66 @@ Day18:
 2)
 3)
 
-Day19:
-1)
+Day19: // 3 Jan
+1) Hello 22 CF contest
 2)
 3)
 
 Day20:
-1)
+1) Studied Bit masking using gfg and Interview Bit
 2)
-3)
 
-Day21:
-1)
+Day21: // 5 Jan
+1) Prepared  for OTA exam
 2)
-3)
 
 Day22:
+1) tried/upsolved 4 th ques of jan starters CC
+2)
+3)
+
+Day23: // 7 Jan
+1) lec_33, lec_34, lec_35 -> Babbar
+2)
+3)
+
+Day24:
 1)
 2)
 3)
 
-Day1:
+
+Day25:
 1)
 2)
 3)
 
-Day1:
+Day26:
 1)
 2)
 3)
 
-
-Day1:
+Day27:
 1)
 2)
 3)
 
-Day1:
+Day28:
 1)
 2)
 3)
 
-Day1:
+Day29:
 1)
 2)
 3)
 
-Day1:
+Day30:
+1)
+2)
+3)
+
+Day31:
 1)
 2)
 3)
