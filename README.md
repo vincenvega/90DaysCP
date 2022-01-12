@@ -125,7 +125,7 @@ Day25:
 2)
 3)
 
-Day26:
+Day26: // 10 jan
 1)
 2)
 3)
@@ -140,10 +140,10 @@ Day28:
 2)
 3)
 
-Day29:
-1)
-2)
-3)
+Day29: // 13 jan
+1) lec-40 Babbar
+2) <1300 ladder contd.( - ques)
+3) 
 
 Day30:
 1)
