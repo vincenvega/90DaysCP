@@ -136,14 +136,14 @@ Day27:
 3)
 
 Day28:
-1)
-2)
+1)  <1300 ladder contd.( 3 - ques)
+2) upsolved 2 ques of cc contest
 3)
 
 Day29: // 13 jan
 1) lec-40 Babbar
-2) <1300 ladder contd.( - ques)
-3) 
+2) <1300 ladder contd.( 1- ques)
+3) revised block chain and learn learning course
 
 Day30:
 1)
@@ -151,6 +151,90 @@ Day30:
 3)
 
 Day31:
+1)
+2)
+3)
+
+Day32:
+1)
+2)
+3)
+
+Day33:
+1)
+2)
+3)
+
+Day34:
+1)
+2)
+3)
+
+Day35:
+1)
+2)
+3)
+
+Day36:
+1)
+2)
+3)
+
+Day37:
+1)
+2)
+3)
+Day38:
+1)
+2)
+3)
+
+Day39:
+1)
+2)
+3)
+
+Day40:
+1)
+2)
+3)
+
+Day41:
+1)
+2)
+3)
+
+Day42:
+1)
+2)
+3)
+
+Day43:
+1)
+2)
+3)
+
+Day44:
+1)
+2)
+3)
+
+Day45:
+1)
+2)
+3)
+
+Day46:
+1)
+2)
+3)
+
+Day47:
+1)
+2)
+3)
+
+Day48:
 1)
 2)
 3)
