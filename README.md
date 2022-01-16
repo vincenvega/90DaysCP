@@ -130,10 +130,10 @@ Day26: // 10 jan
 2)
 3)
 
-Day27:
-1)
-2)
-3)
+Day27: // 11 jan
+1) going to home from college
+2) chilling in college
+3) travelling
 
 Day28:
 1)  <1300 ladder contd.( 3 - ques)
@@ -146,19 +146,19 @@ Day29: // 13 jan
 3) revised block chain and learn learning course
 
 Day30:
-1)
+1) 
 2)
 3)
 
 Day31:
-1)
-2)
+1) babbar lec-41
+2) january long-2 cc
 3)
 
-Day32:
-1)
-2)
-3)
+Day32: // 16 Jan
+1) edu round_121
+2) OS lec-1
+3) babbar lec-42
 
 Day33:
 1)
